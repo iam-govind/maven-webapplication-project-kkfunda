@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <name>Govind Releases Nexus Repository</name>
+	      <url>http:http://54.211.222.132:8081/repository/Jio-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+	      <name>Govind Snapshot Nexus Repository </name>
+	      <url>http:http://54.211.222.132:8081/repository/Jio-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
